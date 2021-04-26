@@ -6,3 +6,6 @@ Steps to run the notebooks:
 2] Run all the cells in the notebook.
 
 Delete the previous ./mycapsule checkpoints before running again.
+
+# Datasets: 
+- MSTAR dataset: (https://www.sdms.afrl.af.mil/index.php?collection=mstar)
